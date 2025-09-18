@@ -1,0 +1,5 @@
+smtp_server: "smtp.gmail.com"
+smtp_port: 587
+email_user: "mlubhit@gmail.com"
+email_pass: "--" #generate app password https://myaccount.google.com/apppasswords
+alert_recipient: "lubhitdevops@gmail.com"
