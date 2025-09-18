@@ -108,6 +108,11 @@ Send email report:
 ansible-playbook -i inventory/hosts playbooks/send_report.yml
 ```
 
+Or run everything together:
+```bash
+ansible-playbook -i inventory/hosts playbook.yml
+```
+
 ## 📜 License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
